@@ -13,6 +13,9 @@ Amazon EKS automatically manages the availability and scalability of the Kuberne
 Amazon EKS lets you run your Kubernetes applications on both Amazon Elastic Compute Cloud (Amazon EC2) and AWS Fargate. With Amazon EKS, you can take advantage of all the performance, scale, reliability, and availability of AWS infrastructure, as well as integrations with AWS networking and security services, such as application load balancers (ALBs) for load distribution, AWS Identity and Access Management (IAM) integration with role-based access control (RBAC), and AWS Virtual Private Cloud (VPC) support for pod networking.
 
 
+![Eks-helm](https://github.com/darjidhruv26/Deploy_Helm_Chart_EKS/assets/90086813/b55876bf-cd11-41fa-80d1-d83bd3c88842)
+
+
 ```
 curl https://baltocdn.com/helm/signing.asc | gpg --dearmor | sudo tee /usr/share/keyrings/helm.gpg > /dev/null
 ```
